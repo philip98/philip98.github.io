@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Fira+Sans:ital@0;1&display=swap');
+
 body {
 	margin: 0;
 	font-size: 18px;
@@ -23,12 +25,14 @@ footer {
 	background-color: white;
 }
 
-p {
-	font-family: "Times New Roman", serif;
+p, li, blockquote, cite, figcaption {
+	font-family: "Baskervville", serif;
+	font-weight: 400;
+	line-height: 1.4;
 }
 
 h1, h2 {
-	font-family: arial, helvetica, sans-serif;
+	font-family: "Fira Sans", sans-serif;
 	font-variant: small-caps;
 }
 
@@ -40,12 +44,18 @@ h2 {
 	font-size: 2em;
 }
 
+a {
+	color: black;
+	text-decoration-style: dotted;
+}
+
 nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	overflow: hidden;
 	background-color: #030;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 nav li {
@@ -57,6 +67,7 @@ nav a {
 	text-align: center;
 	padding: 15px 15px;
 	color: white;
+	font-family: "Fire Sans", sans-serif;
 	text-decoration: none;
 }
 
