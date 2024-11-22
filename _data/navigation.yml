@@ -1,0 +1,14 @@
+- name: General info
+  link: /
+- name: Education
+  link: /education
+- name: Research
+  link: /research
+- name: Teaching
+  link: /teaching
+- name: Publications
+  link: /publications
+- name: Conferences and Seminars
+  link: /conferences
+- name: Contact
+  link: /contact

@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+	<head>
+		<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+		<meta charset="utf-8">
+		<meta name="title" content="{{ page.title }}">
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" href="/assets/css/main.css">
+	</head>
+	<body>
+		<nav><ul>
+			{% for item in site.data.navigation %}
+			<li><a href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a></li>
+			{% endfor %}
+		</ul></nav>
+		<article>
+		{{ content }}
+		</article>
+		<footer>
+			<p>© November 2024</p>
+		</footer>
+	</body>
+</html>
