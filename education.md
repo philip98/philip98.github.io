@@ -6,11 +6,11 @@ permalink: /education
 # Education
 ## Primary and Secondary Education
 I underwent German primary and secondary education at 84. Grundschule Dresden-Hellerau, Marie-Curie-Gymnasium Dresden, and Michaeli Gymnasium München.
-I finished with an average of 1.5 in 2016.
+I graduated in 2016.
 
 ## Bachelor
 I obtained a Bachelor of Science in physics at the [University of Konstanz][kn],
-where I studied 2016–2019 and graduated (on time) with an average of 1.2.
+where I studied 2016–2019 and graduated in 2019.
 
 Throughout my studies I took numerous maths courses: those that were required
 for physicists (analysis 1–3, linear algebra 1, and one more which is chose to
@@ -40,8 +40,7 @@ monodromy or even curvature, which are referred to as *geometric* or
 
 ## Master
 I obtained two Masters of Science: one in physics, one in maths from the
-[University of Amsterdam][uva], where I studied 2019–2022 and graduated with
-an average of 9.3.
+[University of Amsterdam][uva], where I studied 2019–2022 and graduated in 2022.
 
 During my studies I took numerous courses focussing on condensed matter,
 quantum field theory, general relativity, string theory, geometry, functional
