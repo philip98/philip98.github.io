@@ -53,7 +53,7 @@ and SO(\\(d-1,1\\)) of [Mikhail Isachenkov][isachenkov]'s master students
     Vector Versions*, 2023, [preprint](https://arxiv.org/abs/2310.17362)
 
 [^casimir]: Philip Schlösser and Mikhail Isachenkov: *Casimir Radial Parts via 
-    Matsuki Decomposition*, 2024.
+    Matsuki Decomposition*, 2024. To appear.
 
 [^humphreys]: James Humphreys: *Reflection Groups and Coxeter Groups*, 1990
 
