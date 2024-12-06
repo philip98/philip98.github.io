@@ -3,9 +3,14 @@
 	<head>
 		<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 		<meta charset="utf-8">
-		<meta name="title" content="{{ page.title }}">
+		<meta name="description" content="{{ page.description }}">
+		<meta name="keywords" content="mathematics, music, personal webpage">
+		<meta name="author" content="Philip Schlösser">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{{ page.title }}</title>
 		<link rel="stylesheet" href="/assets/css/main.css">
+		<link rel="author" href="/">
+		<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
 	</head>
 	<body>
 		<nav><ul>
@@ -17,7 +22,7 @@
 		{{ content }}
 		</article>
 		<footer>
-			<p>© Philip Schlösser, {{ page.last_modified_at | date: '%B %Y' }}</p>
+			<p>© Philip Schlösser, {{ site.last_modified_at }}</p>
 		</footer>
 	</body>
 </html>
