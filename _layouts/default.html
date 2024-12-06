@@ -17,7 +17,7 @@
 		{{ content }}
 		</article>
 		<footer>
-			<p>© Philip Schlösser, November 2024</p>
+			<p>© Philip Schlösser, {{ page.last_modified_at | date: '%B %Y' }}</p>
 		</footer>
 	</body>
 </html>
