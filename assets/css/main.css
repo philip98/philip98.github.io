@@ -86,5 +86,20 @@ nav a:hover {
 
 .sideways {
 	display: flex;
-	flex-direction: row;
+	flex-wrap: wrap;
 }
+
+.sideways aside {
+	flex: 1 1 35%;
+}
+
+.sideways img {
+	min-width: 5cm;
+	max-width: 100%;
+}
+
+.sideways section {
+	flex: 1 1 55%;
+	min-width: 5cm;
+}
+
