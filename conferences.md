@@ -4,8 +4,17 @@ title: Philip Schlösser – Conferences
 permalink: /conferences
 ---
 # Conferences and Seminars
+
+## 2025
+* 20–24 January: [Workshop 1: Intertwining Operators and Geometry][parisw1] of
+the [thematic trimester on Representation Theory and Noncommutative Geometry][paris]
+at the Institut Henri Poincaré in Paris
+* 6–10 January: [Opening School][marseille] of the [thematic trimester RTNCG][paris]
+at CIRM in Marseille
+
 ## 2024
-* 17–21 June: [Groups & Algebras in Bicocca for Young Algebraists][gaby]
+* 17–21 June: [Groups & Algebras in Bicocca for Young Algebraists][gaby] at the
+University of Milano-Bicocca
 * 1–3 May: [Hypergeometric and Orthogonal Polynomials Event][hope], organised by
 [Erik Koelink][koelink], [Maarten van Pruijssen][vpruijssen], [Wadim Zudilin][zudilin]
     * 2 May: *Intermediate Macdonald Polynomials*, another talk about my preprint[^intermediate].
@@ -62,6 +71,9 @@ and SO(\\(d-1,1\\)) of [Mikhail Isachenkov][isachenkov]'s master students
 
 [^dixmier]: Especially chapter 9 of Jacques Dixmier: *Enveloping Algebras*, 1977
 
+[parisw1]: https://indico.math.cnrs.fr/event/10856/
+[paris]: https://indico.math.cnrs.fr/event/10843/
+[marseille]: https://conferences.cirm-math.fr/3227.html
 [gaby]: https://staff.matapp.unimib.it/~gaby/gaby2024/index.html
 [hope]: https://www.math.ru.nl/~wzudilin/HOPE-in-May.html
 [koelink]: https://www.math.ru.nl/~koelink/
