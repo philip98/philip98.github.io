@@ -52,11 +52,9 @@ representations, it is known[^letzter] that the matrix spherical functions are
 symmetric Macdonald polynomials, and similarly, for other one-dimensional 
 representations, my colleague [Stein Meereboer][stein] recently showed the same.
 
-Furthermore, I managed to show that matrix spherical functions for the quantum
-symmetric pair associated with \\((SO(2n+2), SO(2n+1))\\) 
-(non-commutative \(2n+1\)-sphere) and the spin representation can be interpreted
-as non-symmetric Macdonald polynomials for an affine root system of type \\(A_1\\).
-
+Furthermore, there are three examples for which I managed to establish 
+a connection between matrix spherical functions and
+[intermediate Macdonald polynomials][intMacdo].
 ----
 
 [^heckman]: Gerrit Heckman and Henrik Schlichtkrull: *Harmonic analysis 
@@ -72,3 +70,5 @@ as non-symmetric Macdonald polynomials for an affine root system of type \\(A_1\
     Macdonald polynomials*, 2004. [arXiv](https://arxiv.org/abs/math/0210447)
 
 [stein]: https://sites.google.com/view/steinmeereboer/stein "Stein's homepage"
+
+[intMacdo]: https://arxiv.org/abs/2310.17362
