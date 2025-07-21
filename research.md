@@ -52,7 +52,7 @@ representations, it is known[^letzter] that the matrix spherical functions are
 symmetric Macdonald polynomials, and similarly, for other one-dimensional 
 representations, my colleague [Stein Meereboer][stein] recently showed the same.
 
-Furthermore, there are three examples for which I managed to establish 
+Furthermore, there are five examples for which I managed to establish 
 a connection between matrix spherical functions and
 [intermediate Macdonald polynomials][intMacdo].
 ----
@@ -61,7 +61,7 @@ a connection between matrix spherical functions and
     and special functions on symmetric spaces*, 1994
 
 [^casimir]: Philip Schlösser and Mikhail Isachenkov: *Casimir Radial Parts via 
-    Matsuki Decomposition*, 2024. To appear.
+    Matsuki Decomposition*, 2024. [arXiv](https://arxiv.org/abs/2412.19681)
 
 [^kolb]: Stefan Kolb: *Quantum symmetric Kac-Moody pairs*, 2014.
     [arXiv](https://arxiv.org/abs/1207.6036)

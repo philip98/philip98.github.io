@@ -6,6 +6,9 @@ permalink: /conferences
 # Conferences and Seminars
 
 ## 2025
+* 26–30 May: Research visit to FAU Erlangen
+    * 26 May: *Conformal 4-Point Functions and Their Representation Theory*, talk about
+    my preprint[^casimir] with [Mikhail Isachenkov][isachenkov].
 * 20–24 January: [Workshop 1: Intertwining Operators and Geometry][parisw1] of
 the [thematic trimester on Representation Theory and Noncommutative Geometry][paris]
 at the Institut Henri Poincaré in Paris
@@ -59,10 +62,10 @@ and SO(\\(d-1,1\\)) of [Mikhail Isachenkov][isachenkov]'s master students
 ----
 
 [^intermediate]: Philip Schlösser: *Intermediate Macdonald Polynomials and Their
-    Vector Versions*, 2023, [preprint](https://arxiv.org/abs/2310.17362)
+    Vector Versions*, 2023, [arXiv](https://arxiv.org/abs/2310.17362)
 
 [^casimir]: Philip Schlösser and Mikhail Isachenkov: *Casimir Radial Parts via 
-    Matsuki Decomposition*, 2024. To appear.
+    Matsuki Decomposition*, 2024. [arXiv](https://arxiv.org/abs/2412.19681)
 
 [^humphreys]: James Humphreys: *Reflection Groups and Coxeter Groups*, 1990
 
