@@ -9,6 +9,7 @@ to appear. [arXiv][intermediate]
 * P.S. and Max van Horssen: *Nonsymmetric Askey–Wilson Shift Operators*, 
 Stud. Appl. Math., **2025**, 155(3). [arXiv][nsso], [DOI][nssoDOI]
 * P.S. and Mikhail Isachenkov: *Casimir Radial Parts via Matsuki Decomposition*, 2024, to appear. [arXiv][matsuki]
+* Stein Meereboer and P.S.: *Quantum Matrix Spherical Functions*, 2025, in preparation
 
 [intermediate]: https://arxiv.org/abs/2310.17362
 [nsso]: https://arxiv.org/abs/2412.03169

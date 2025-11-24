@@ -6,6 +6,9 @@ permalink: /conferences
 # Conferences and Seminars
 
 ## 2025
+* 4–8 November: ARTinTOKYO in Tōkyō.
+    * *Quantum Matrix Spherical Functions*, poster about my ongoing work with
+    [Stein Meereboer][stein]
 * 26–30 May: Research visit to FAU Erlangen
     * 26 May: *Conformal 4-Point Functions and Their Representation Theory*, talk about
     my preprint[^casimir] with [Mikhail Isachenkov][isachenkov].
@@ -90,3 +93,4 @@ and SO(\\(d-1,1\\)) of [Mikhail Isachenkov][isachenkov]'s master students
 [isachenkov]: https://www.uva.nl/en/profile/i/s/m.isachenkov/m.isachenkov.html
 [phdcolloq]: https://www.math.ru.nl/graduate_school/phdcolloquium/
 [wayta]: https://buciumas.github.io/wayta/index.html
+[stein]: https://sites.google.com/view/steinmeereboer/stein
