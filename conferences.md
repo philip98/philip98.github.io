@@ -6,7 +6,7 @@ permalink: /conferences
 # Conferences and Seminars
 
 ## 2025
-* 4–8 November: ARTinTOKYO in Tōkyō.
+* 4–8 November: ARTinTOKYO at UTōkyō.
     * *Quantum Matrix Spherical Functions*, poster about my ongoing work with
     [Stein Meereboer][stein]
 * 26–30 May: Research visit to FAU Erlangen
