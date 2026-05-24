@@ -5,9 +5,19 @@ permalink: /conferences
 ---
 # Conferences and Seminars
 
+## 2026
+* 19 March, 23 April, 21 May: [RU-UvA Seminar][ruuva2] on infinite-dimensional quantum
+    symmetric pairs and quantum gravity, organised by [Stein Meereboer][stein]
+    and [Jort de Groot][jort]
+    * Talk *Towards Zonal Spherical Functions* about subtleties that arise when
+        constructing zonal spherical functions in the infinite case as well.
+* 19 May: Research visit to U. Paderborn
+    * Talk *Radial Parts for Pseudo-Riemannian Symmetric Pairs* about aspects
+    of my preprint[^casimir] with [Mikhail Isachenkov][isachenkov].
+
 ## 2025
 * 4–8 November: ARTinTOKYO at UTōkyō.
-    * *Quantum Matrix Spherical Functions*, poster about my ongoing work with
+    * Poster *Quantum Matrix Spherical Functions* about my ongoing research with
     [Stein Meereboer][stein]
 * 26–30 May: Research visit to FAU Erlangen
     * 26 May: *Conformal 4-Point Functions and Their Representation Theory*, talk about
@@ -32,13 +42,12 @@ of [Tom Koornwinder][koornwinder]'s 80th birthday, organised by
 * 28 August–1st September: [GQT][gqt] Workshop and Conference
 * 1–3 May: Workshop Representation Theory of p-Adic Groups, organised by
 [Valentin Buciumas][buciumas]
-* since 16 February: [RU-UvA Seminar][ruuva], organised by 
+* 16 February 2023–16 May 2024: [RU-UvA Seminar][ruuva], organised by 
 [Erik Koelink][koelink], [Maarten van Pruijssen][vpruijssen], 
 [Jasper Stokman][stokman], and [Mikhail Isachenkov][isachenkov]
-    * 16 May 2024: Radial Parts for Very Non-Compact Symmetric Pairs, talk about
+    * 16 May 2024: *Radial Parts for Very Non-Compact Symmetric Pairs*, talk about
     my preprint[^casimir] with [Mikhail Isachenkov][isachenkov].
-    * 24 October 2023: Intermediate Macdonald Polynomials and their connections
-    to Jasper and Maarten, talk about my preprint[^intermediate].
+    * 24 October 2023: *Intermediate Macdonald Polynomials and their connections to Jasper and Maarten*, talk about my preprint[^intermediate].
     * 30 March 2023: *Non-Symmetric Macdonald Polynomials*, talk about the non-symmetric Macdonald polynomials.
 
 ## 2022
@@ -90,7 +99,9 @@ and SO(\\(d-1,1\\)) of [Mikhail Isachenkov][isachenkov]'s master students
 [gqt]: https://gqt.nl/
 [buciumas]: https://sites.google.com/site/valentinbuciumas/home
 [ruuva]: https://www.math.ru.nl/~koelink/RU-UvA-seminar.html
+[ruuva2]: https://sites.google.com/view/steinmeereboer/stein/ru-uva-seminar
 [isachenkov]: https://www.uva.nl/en/profile/i/s/m.isachenkov/m.isachenkov.html
 [phdcolloq]: https://www.math.ru.nl/graduate_school/phdcolloquium/
 [wayta]: https://buciumas.github.io/wayta/index.html
 [stein]: https://sites.google.com/view/steinmeereboer/stein
+[jort]: https://sites.google.com/view/jortdegroot
